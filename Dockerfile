@@ -7,4 +7,4 @@ FROM node:9.8.0
 RUN npm install -g pomelo
 
 
-CMD [ "node" ]
+CMD sleep infinity
