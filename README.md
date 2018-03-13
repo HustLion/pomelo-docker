@@ -1,6 +1,6 @@
 # Pomelo-docker
 
-为 Pomelo 定制的 docker 容器。
+为 [Pomelo](https://github.com/NetEase/pomelo) 定制的 docker 容器。
 
 # 使用
 
