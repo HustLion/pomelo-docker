@@ -4,7 +4,7 @@
 
 # 使用
 
-已经上传到 Docker hub，可以直接使用
+已经上传到 Docker hub，可以直接使用 ([地址](https://hub.docker.com/r/hustlion/pomelo/))
 
 ```bash
 docker run -i -t hustlion/pomelo /bin/bash
